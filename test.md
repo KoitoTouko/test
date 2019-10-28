@@ -1,5 +1,4 @@
-# Git is a free software
+# Git
 
 ---
 
-LBW NB.
